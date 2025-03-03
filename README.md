@@ -28,8 +28,7 @@ dotnet ef database update <br />
 4️⃣ Run the application: <br />
 dotnet run --project ProductInventoryAPI.API <br />
 
-5️⃣ Open Swagger:
-https://localhost:7133/swagger <br />
+5️⃣ Open Swagger <br />
 
 Available API endpoints <br />
 
